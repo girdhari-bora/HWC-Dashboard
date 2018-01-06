@@ -1,0 +1,210 @@
+asha_id,asha_name,asha_label,sc_name
+1,Geeta_Rambaran,Geeta-Rambaran,Agga_Pur
+2,Neeta_Devi__Brij_Kumar,Neeta Devi  -Brij Kumar,Agga_Pur
+3,Nirmala_Devi__Ram_Baran,Nirmala Devi  -Ram Baran ,Agga_Pur
+4,Rajrani__Pawan_Kumar,Rajrani  -Pawan Kumar,Agga_Pur
+5,Sunita_Devi__Kedar_Nath,Sunita Devi  -Kedar Nath ,Agga_Pur
+6,Sunita_Devi__Vinod_Kumar,Sunita Devi  -Vinod Kumar,Agga_Pur
+7,Sushama_Devi__Shiv_Shankar,Sushama Devi -Shiv Shankar,Agga_Pur
+8,Usha_Devi__Nankau_Prasad,Usha Devi -Nankau Prasad ,Agga_Pur
+9,Geeta_Devi__Harish_Chandra,Geeta Devi -Harish Chandra,Bakawa 
+10,Hema_Devi__1_June_2011___Malik_Ram,Hema Devi (1 June 2011) -Malik Ram ,Bakawa 
+11,Munni_Devi__Ram_Abhilakh,Munni Devi -Ram Abhilakh,Bakawa 
+12,Neelam_Devi__Trainning_Absent___,Neelam Devi (Trainning Absent) -,Bakawa 
+13,Raj_Kumari__Trainning_Absent___,Raj Kumari (Trainning Absent) -,Bakawa 
+14,Reshama__Trainning_Absent___,Reshama (Trainning Absent) -,Bakawa 
+15,Shila_Devi__Salik_Ram,Shila Devi -Salik Ram ,Bakawa 
+16,Shitala_Devi__Ram_Pheran,Shitala Devi -Ram Pheran ,Bakawa 
+17,Bitta_Devi__Kaushal_Kumar,Bitta Devi -Kaushal Kumar,Balanpur_Basant_Pur
+18,Devyani_Devi__Vishwanath_Pandey,Devyani Devi -Vishwanath Pandey ,Balanpur_Basant_Pur
+19,Geeta_Devi__Ramraj,Geeta Devi -Ramraj ,Balanpur_Basant_Pur
+20,Geeta_Devi__Surendra_Pathak,Geeta Devi -Surendra Pathak ,Balanpur_Basant_Pur
+21,Ketaki_Devi__Nigam_Prasad,Ketaki Devi -Nigam Prasad ,Balanpur_Basant_Pur
+22,Malati_Devi__Sakat_Ram,Malati Devi -Sakat Ram ,Balanpur_Basant_Pur
+23,Nirmala_Devi__Surendra,Nirmala Devi  -Surendra  ,Balanpur_Basant_Pur
+24,Uma_Devi__Dinesh_Kumar,Uma Devi -Dinesh Kumar  ,Balanpur_Basant_Pur
+25,Gulanisha__Goli,Gulanisha -Goli ,Bhachakahi
+26,Kastura_Devi__Babu_Ram_Yadav,Kastura Devi -Babu Ram Yadav ,Bhachakahi
+27,Nankana__1_June_2011___Araman_Ali,Nankana (1 June 2011) -Araman Ali,Bhachakahi
+28,Nurjahan__Moh__Ibrahim,Nurjahan -Moh. Ibrahim,Bhachakahi
+29,Rampati_Devi__Shri_Lahanu,Rampati Devi -Shri Lahanu,Bhachakahi
+30,Renu_Devi_Sangini_Pawan_Kumar_Mishra,Renu Devi Sangini-Pawan Kumar Mishra,Bhachakahi
+31,Seeta_Devi__1_Jun_2011___Let__Ram_Bahadur,Seeta Devi (1 Jun 2011) -Let. Ram Bahadur ,Bhachakahi
+32,Shila_Devi__Dinesh_Kumar_Verma,Shila Devi -Dinesh Kumar Verma,Bhachakahi
+33,Urmila_Devi__1_June_2011___Arvind_Kumar,Urmila Devi (1 June 2011) -Arvind Kumar,Bhachakahi
+34,Bhanumati__Ram_Kumar,Bhanumati -Ram Kumar ,Bhagwan_Pur
+35,Meena_Kumari__Seeta_Ram_Verma,Meena Kumari -Seeta Ram Verma ,Bhagwan_Pur
+36,Parwati_Devi__Sohan,Parwati Devi -Sohan ,Bhagwan_Pur
+37,Reeta_Devi__Sangam_Lal,Reeta Devi -Sangam Lal,Bhagwan_Pur
+38,Usha_Shriwastav__Rakesh_Shriwastav,Usha Shriwastav -Rakesh Shriwastav,Bhagwan_Pur
+39,Akalpuri__Ram_Gopal_Verma,Akalpuri -Ram Gopal Verma ,Chailahi 
+40,Poonam__Ram_Sanehi,Poonam -Ram Sanehi ,Chailahi 
+41,Ramawati__Mansha_Ram,Ramawati -Mansha Ram,Chailahi 
+42,Santosh_Kumari__Budhram,Santosh Kumari -Budhram,Chailahi 
+43,Sarita_Devi__Ram_Chandar,Sarita Devi -Ram Chandar ,Chailahi 
+44,Shyam_Lali__Let__Shyam_Bihari,Shyam Lali -Let. Shyam Bihari,Chailahi 
+45,Reena_Devi__Omkar,Reena Devi -Omkar,Chailahi 
+46,Gudiya_Devi__Seeta_Sharan_Pathak,Gudiya Devi -Seeta Sharan Pathak ,Chilhariya 
+47,Jagpata__Hari_Ram,Jagpata -Hari Ram ,Chilhariya 
+48,Malati_Devi__Laxmi_Narayan,Malati Devi -Laxmi Narayan ,Chilhariya 
+49,Pratibha_Rani__Shekhar_Chand,Pratibha Rani -Shekhar Chand ,Chilhariya 
+50,Prema_Devi__Arjun_Prasad,Prema Devi  -Arjun Prasad ,Chilhariya 
+51,Pushpa_Devi__Salik_Ram,Pushpa Devi -Salik Ram ,Chilhariya 
+52,Radhika_Devi_Rameshwar,Radhika Devi-Rameshwar ,Chilhariya 
+53,Raziya_Begam__Moh__Anish,Raziya Begam -Moh. Anish,Chilhariya 
+54,Avadhesh_Kumari__1_June_2011___Damodar_Shukla,Avadhesh Kumari (1 June 2011) -Damodar Shukla ,Durga_Pur_K_p_
+55,Janki_Devi_Rambilash,Janki Devi-Rambilash,Durga_Pur_K_p_
+56,Anjani_Devi__Munnalal,Anjani Devi -Munnalal,Durga_Pur_K_p_
+57,Uma_Devi__Omkar_Nath_Yadav,Uma Devi -Omkar Nath Yadav ,Durga_Pur_K_p_
+58,Anita_Devi__Vinod_Kumar,Anita Devi -Vinod Kumar,Ekagharwa
+59,Kanak_Lata__Om_Praksah,Kanak Lata -Om Praksah,Ekagharwa
+60,Madhu__Yogesh_Kumar,Madhu  -Yogesh Kumar,Ekagharwa
+61,Madhup_Lata__Sanchit_Kumar,Madhup Lata -Sanchit Kumar,Ekagharwa
+62,Madhuri_Pandey__Manoj_Kumar,Madhuri Pandey -Manoj Kumar,Ekagharwa
+63,Meera_Devi__Narendra_Kumar,Meera Devi  -Narendra Kumar ,Ekagharwa
+64,Raj_Kumari__Shesh_Ram,Raj Kumari -Shesh Ram ,Ekagharwa
+65,Rekha_Devi__Suresh_Kumar,Rekha Devi -Suresh Kumar,Ekagharwa
+66,Sonu_Devi__Avadesh_Kumar,Sonu Devi -Avadesh Kumar,Ekagharwa
+67,Anita_Devi__Kailash_Nath,Anita Devi -Kailash Nath ,Gulara
+68,Batasi_Devi__Jagnath,Batasi Devi -Jagnath ,Gulara
+69,Kamla_Devi_Sangini_Rajesh_Kumar_Pandey,Kamla Devi Sangini-Rajesh Kumar Pandey ,Gulara
+70,Nirmala_Devi__Om_Praksah,Nirmala Devi -Om Praksah,Gulara
+71,Sunita_Devi__Byas_Kumar,Sunita Devi -Byas Kumar,Gulara
+72,Santoshi_Devi_Ramjite,Santoshi Devi-Ramjite,Gulara
+73,Santoshi_Gautam_Sahaj_Ram,Santoshi Gautam-Sahaj Ram,Gulara
+74,Tarawati_Inactive_Lallu_Verma,Tarawati Inactive-Lallu Verma,Gulara
+75,Madhavi_Verma__Sukh_Lal,Madhavi Verma -Sukh Lal,Jamuni_Kala
+76,Neeta_Devi_Ram_Murat,Neeta Devi-Ram Murat ,Jamuni_Kala
+77,Shanti_Devi__Radheysyam,Shanti Devi -Radheysyam,Jamuni_Kala
+78,Chameli__Babadeen,Chameli  -Babadeen ,Jokhawa 
+79,Gayatri_Devi__Daya_Ram_Mishra,Gayatri Devi -Daya Ram Mishra,Jokhawa 
+80,Kiran__Ram_Nivas,Kiran  -Ram Nivas ,Jokhawa 
+81,Puspa_Devi_Hemantdhar,Puspa Devi-Hemantdhar,Jokhawa 
+82,Sangita_Devi__Klluram,Sangita Devi -Klluram,Jokhawa 
+83,Sarita_Devi_Dharmendra,Sarita Devi-Dharmendra,Jokhawa 
+84,Saroj_Kumari__Ramroop_Arya,Saroj Kumari -Ramroop Arya,Jokhawa 
+85,Suman_Kashyap__Salik_Ram,Suman Kashyap -Salik Ram ,Jokhawa 
+86,Geeta_Devi__Lallu_Ram,Geeta Devi  -Lallu Ram ,Katkuiyan_Kalan
+87,Kusuma_Devi__Chhote_Lal,Kusuma Devi -Chhote Lal,Katkuiyan_Kalan
+88,Meena_Devi__Dadan,Meena Devi -Dadan,Katkuiyan_Kalan
+89,Munni_Devi__Basant_Lal,Munni Devi -Basant Lal ,Katkuiyan_Kalan
+90,Poonam_Devi__Shiv_Kumar,Poonam Devi -Shiv Kumar,Katkuiyan_Kalan
+91,Prem_Kumari__Seeta_Ram,Prem Kumari -Seeta Ram  ,Katkuiyan_Kalan
+92,Rekha_Devi__Murlidhar,Rekha Devi -Murlidhar,Katkuiyan_Kalan
+93,Mithilesh_Kumari__Pramod_Kumar,Mithilesh Kumari -Pramod Kumar,Laxman_Pur
+94,Nanda_Devi_Anil_Kumar,Nanda Devi-Anil Kumar,Laxman_Pur
+95,Pushpa_Wati__Dukhi_Ram_Pandey,Pushpa Wati -Dukhi Ram Pandey ,Laxman_Pur
+96,Radha_Devi__Bhola_Nath_Tiwari,Radha Devi -Bhola Nath Tiwari ,Laxman_Pur
+97,Sangita_Shriwastav__Veerandra_Kumar,Sangita Shriwastav -Veerandra Kumar,Laxman_Pur
+98,Shree_Devi_Heeralal,Shree Devi-Heeralal,Laxman_Pur
+99,Sushama_Mishra__Dinesh_Mishra,Sushama Mishra -Dinesh Mishra,Laxman_Pur
+100,Avadhesh_Kumari__Pramod_Singh,Avadhesh Kumari -Pramod Singh,Madhawa_Pur
+101,Ekata_Devi__Avadesh_Kumar_Pandey,Ekata Devi -Avadesh Kumar Pandey,Madhawa_Pur
+102,Kanchan_Devi__Makkhan_Lal,Kanchan Devi -Makkhan Lal ,Madhawa_Pur
+103,Kusum_Devi__Shivkumar,Kusum Devi -Shivkumar,Madhawa_Pur
+104,Maya_Devi__Lallu_Prasad,Maya Devi -Lallu Prasad ,Madhawa_Pur
+105,Ramawati__Mukti_Nath,Ramawati -Mukti Nath ,Madhawa_Pur
+106,Sanju_Devi__Dharmendra_Kumar,Sanju Devi  -Dharmendra Kumar,Madhawa_Pur
+107,Shiv_Kumari__Guddu,Shiv Kumari -Guddu ,Madhawa_Pur
+108,Sunita_Devi__Vikramaditya_Mishra,Sunita Devi -Vikramaditya Mishra,Madhawa_Pur
+109,Anita_Devi__Jogendra,Anita Devi -Jogendra ,Medhakiya
+110,Asha_Devi__Raksha_Ram_Jaiswal,Asha Devi -Raksha Ram Jaiswal,Medhakiya
+111,Komal_Mishra__Dharmendra_Kumar,Komal Mishra -Dharmendra Kumar,Medhakiya
+112,Sangita_Devi__Jaikaran,Sangita Devi -Jaikaran,Medhakiya
+113,Saroj_Kumari__Rajendra_Prasad,Saroj Kumari  -Rajendra Prasad,Medhakiya
+114,Seetapati__1_June_2011___Jogi,Seetapati (1 June 2011) -Jogi,Medhakiya
+115,Usha_Devi__Laxman_Prasad,Usha Devi -Laxman Prasad,Medhakiya
+116,Ashama_Begam_Shamim_Ahamad,Ashama Begam-Shamim Ahamad ,Motipur_Kalan
+117,Bishani__Durjan,Bishani -Durjan ,Motipur_Kalan
+118,Lalita_Devi__Mansha_Ram_Mishra,Lalita Devi -Mansha Ram Mishra ,Motipur_Kalan
+119,Maghi__Lachchan_Prasad,Maghi -Lachchan Prasad,Motipur_Kalan
+120,Nisha_Shriwastav_Sangini_Bodhan_Lal_Shriwastav,Nisha Shriwastav Sangini-Bodhan Lal Shriwastav ,Motipur_Kalan
+121,Prabhawati__Gangesh_Prasad,Prabhawati -Gangesh Prasad ,Motipur_Kalan
+122,Savitri_Devi__Ram_Chandar,Savitri Devi -Ram Chandar ,Motipur_Kalan
+123,Seeta_Devi__Cheepu_Ram,Seeta Devi -Cheepu Ram,Motipur_Kalan
+124,Shanti_Devi__Indrajeet,Shanti Devi -Indrajeet,Motipur_Kalan
+125,Sona_Devi__Keshav_Ram,Sona Devi -Keshav Ram ,Motipur_Kalan
+126,Sushila_Devi__Sant_Lal,Sushila Devi -Sant Lal,Motipur_Kalan
+127,Urmila_Devi__Om_Praksah_Shukla,Urmila Devi -Om Praksah Shukla,Motipur_Kalan
+128,Bhanumati__Jai_Prakash,Bhanumati -Jai Prakash ,Padawaliya 
+129,Madhuri_Devi__Alakh_Ram,Madhuri Devi -Alakh Ram ,Padawaliya 
+130,Saroj_Kumari__Pawan,Saroj Kumari  -Pawan,Padawaliya 
+131,Sunita_Devi__Pradhan_Pandey,Sunita Devi -Pradhan Pandey,Padawaliya 
+132,Uma_Devi_Devata_Deen,Uma Devi-Devata Deen ,Padawaliya 
+133,Maya_Devi_Omprakash,Maya Devi-Omprakash,Parsa__Bhadila_Joga_Gown
+134,Kamla_Devi__Yamuna_Dhar,Kamla Devi -Yamuna Dhar,Parsiya_Raja
+135,Manju_Devi__Raj_Kumar,Manju Devi -Raj Kumar,Parsiya_Raja
+136,Meera_Devi__Sunil_Gupta,Meera Devi -Sunil Gupta ,Parsiya_Raja
+137,Neelam_Devi__Itawari_Lal,Neelam Devi -Itawari Lal ,Parsiya_Raja
+138,Renu_Shriwastav_Rajesh_Kumar_Srivastav,Renu Shriwastav-Rajesh Kumar Srivastav,Parsiya_Raja
+139,Suman_Devi_Gautam_Verma,Suman Devi-Gautam Verma,Parsiya_Raja
+140,Sumitra_Devi__Chhote_Lal,Sumitra Devi -Chhote Lal,Parsiya_Raja
+141,Aaysha_Begam_Mustak_Ali,Aaysha Begam-Mustak Ali ,Parsohana
+142,Anjani_Devi__Amrit_Lal,Anjani Devi -Amrit Lal ,Parsohana
+143,Asharani_Inactive_,Asharani Inactive-,Parsohana
+144,Geeta_Devi__Lallan_Prasad,Geeta Devi -Lallan Prasad ,Parsohana
+145,Maya_Devi_Satgur_Prasad,Maya Devi-Satgur Prasad ,Parsohana
+146,Sundarpati_Bhagedu_Verma,Sundarpati-Bhagedu Verma,Parsohana
+147,Arti_Devi__Anant_Ram,Arti Devi -Anant Ram ,Piprahwa_Joga_Gown
+148,Kudussunisha__Rasheed,Kudussunisha -Rasheed,Piprahwa_Joga_Gown
+149,Pravin__Trainning_Absent___,Pravin (Trainning Absent) -,Piprahwa_Joga_Gown
+150,Rukasana__Jakir_Ali,Rukasana -Jakir Ali,Piprahwa_Joga_Gown
+151,Sahanaz__Moh__Shanaj,Sahanaz -Moh. Shanaj,Piprahwa_Joga_Gown
+152,Savitri_Devi_Raju,Savitri Devi-Raju,Piprahwa_Joga_Gown
+153,Sunita_Devi_Ramparas,Sunita Devi-Ramparas,Piprahwa_Joga_Gown
+154,Alimunnisha__Jamil_Ahamad,Alimunnisha -Jamil Ahamad,Purebale
+155,Jainab_Jahan__Wasim_Khan,Jainab Jahan -Wasim Khan,Purebale
+156,Mamta_Shriwastav__Rajjan_Shriwastav,Mamta Shriwastav -Rajjan Shriwastav,Purebale
+157,Niru_Shriwastav__Gopal_Shriwastav,Niru Shriwastav -Gopal Shriwastav,Purebale
+158,Shabnam_Bano__Jahir,Shabnam Bano -Jahir,Purebale
+159,Aaysha_Begam__Hasim_Khan,Aaysha Begam -Hasim Khan,Rampur_Devman
+160,Anita_Devi__Anil_Kumar,Anita Devi -Anil Kumar,Rampur_Devman
+161,Anita_Devi__Tilakram,Anita Devi -Tilakram,Rampur_Devman
+162,Geeta_Devi__1_Jun_2011___Raksha_Ram_Vishwakarma,Geeta Devi (1 Jun 2011) -Raksha Ram Vishwakarma,Rampur_Devman
+163,Habibulnisha__Isarat_Khan,Habibulnisha -Isarat Khan ,Rampur_Devman
+164,Kamini_Shriwastav_Sangini_Bajarang_Bali,Kamini Shriwastav Sangini-Bajarang Bali ,Rampur_Devman
+165,Kamla_Devi__Ram_Chandar,Kamla Devi -Ram Chandar ,Rampur_Devman
+166,Tarannum_Begam__Ajamal_Khan,Tarannum Begam -Ajamal Khan,Rampur_Devman
+167,Geeta_Devi__1_Jun_2011___Ram_Kumar,Geeta Devi (1 Jun 2011) -Ram Kumar ,Shahpur_Bargadwa
+168,Krishna_Devi__Krishn_Bahadur,Krishna Devi -Krishn Bahadur ,Shahpur_Bargadwa
+169,Mayawati_Patel__Ram_Paras_Patel,Mayawati Patel -Ram Paras Patel ,Shahpur_Bargadwa
+170,Ramrati__Jagesar_Prasad,Ramrati -Jagesar Prasad,Shahpur_Bargadwa
+171,Sarita_Devi__Syam_Kishor,Sarita Devi  -Syam Kishor,Shahpur_Bargadwa
+172,Savitri_Devi__Sahaj_Ram,Savitri Devi  -Sahaj Ram,Shahpur_Bargadwa
+173,Sushila_Devi__Ved_Prakash_Mishra,Sushila Devi  -Ved Prakash Mishra,Shahpur_Bargadwa
+174,Geeta_Devi__Gomati_Prasad_Verma,Geeta Devi  -Gomati Prasad Verma ,Shivgadh_Khurd
+175,Malati_Devi__Ramraj_Verma,Malati Devi -Ramraj Verma,Shivgadh_Khurd
+176,Manjulata__Krishna_Kumar,Manjulata -Krishna Kumar,Shivgadh_Khurd
+177,Meera_Devi__Omkar_Verma,Meera Devi -Omkar Verma ,Shivgadh_Khurd
+178,Phulmati__Arvind_Kumar,Phulmati -Arvind Kumar,Shivgadh_Khurd
+179,Pintu_Devi__Tilak_Ram,Pintu Devi -Tilak Ram ,Shivgadh_Khurd
+180,Ramawati__Ram_Kishun_Verma,Ramawati -Ram Kishun Verma,Shivgadh_Khurd
+181,Seetapati__Jeewan_Lal,Seetapati -Jeewan Lal,Shivgadh_Khurd
+182,Suman_Verma__Kameshwar_Nath_Verma,Suman Verma -Kameshwar Nath Verma,Shivgadh_Khurd
+183,Chhaya_Gupta_Ramkumar,Chhaya Gupta-Ramkumar,Sirsiya
+184,Fatima__Nankau_Prasad,Fatima -Nankau Prasad ,Sirsiya
+185,Savira_Khatun_Abbas_Ali,Savira Khatun-Abbas Ali,Sirsiya
+186,Sheela_Devi_Vijay_Kumar,Sheela Devi-Vijay Kumar,Sirsiya
+187,Tara_Devi__Thakur_Prasad,Tara Devi -Thakur Prasad,Sirsiya
+188,Usaha_Gupta_Sandeep_Kumar,Usaha Gupta-Sandeep Kumar,Sirsiya
+189,Neelam_Devi__Avadesh_Kumar,Neelam Devi -Avadesh Kumar  ,Sonaudha_Tarai
+190,Rohini_Ramu_Pandey,Rohini-Ramu Pandey,Sonaudha_Tarai
+191,Shanti_Devi__Vishveshwar_Prasad,Shanti Devi -Vishveshwar Prasad,Sonaudha_Tarai
+192,Manju_Devi__Dharmraj,Manju Devi -Dharmraj,Sonaudha_Tarai
+193,Reena_Devi_Omkar,Reena Devi-Omkar,Sonbarsa_Joga_Gown
+194,Kusum_Devi__Salik_Ram,Kusum Devi -Salik Ram ,Takiya
+195,Mani_Kumari__Raksha_Ram,Mani Kumari -Raksha Ram ,Takiya
+196,Meena_Devi__Raksha_Ram,Meena Devi -Raksha Ram ,Takiya
+197,Nirmala_Devi__Shyam_Singh,Nirmala Devi -Shyam Singh,Takiya
+198,Rekha_Devi__Peshkar_Verma,Rekha Devi -Peshkar Verma,Takiya
+199,Sanju_Devi__Jagdish_Prasad,Sanju Devi -Jagdish Prasad,Takiya
+200,Seeta_Devi__Sanval_Prasad,Seeta Devi -Sanval Prasad,Takiya
+201,Urmila_Devi__Pankaj_Kumar,Urmila Devi -Pankaj Kumar,Takiya
+202,Chameli__Ganga_Ram,Chameli -Ganga Ram ,Titihiriya
+203,Malati_Devi__Ram_Surat,Malati Devi  -Ram Surat ,Titihiriya
+204,Munni_Devi__Keshav_Ram,Munni Devi -Keshav Ram ,Titihiriya
+205,Prem_Lata__Hanuman_Prasad,Prem Lata -Hanuman Prasad ,Titihiriya
+206,Reshama__Baur,Reshama  -Baur,Titihiriya
+207,Seeta_Devi__Parikrama,Seeta Devi  -Parikrama,Titihiriya
+208,Shiv_Rani__Amaresh_Prasad,Shiv Rani -Amaresh Prasad,Titihiriya
+209,Sultana_Begam__Moh__Gani,Sultana Begam -Moh. Gani,Titihiriya
